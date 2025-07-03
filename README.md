@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 
-Welcome to my **Personal Expense Tracker**, a sleek and functional web application designed to help you manage your finances effortlessly! Built with modern web technologies, this project showcases my skills as a software developer. Check it out live at: **[https://free-personal-expense-tracker.netlify.app/](https://free-personal-expense-tracker.netlify.app/)**.
+Welcome to my **Personal Expense Tracker**, a sleek and functional web application designed to help you manage your finances effortlessly! Built with modern web technologies, this project showcases my skills as a software developer. Check it out live at: **[https://pers0nal-expense-tracker.vercel.app/](https://pers0nal-expense-tracker.vercel.app/)**.
 
 ---
 
@@ -36,7 +36,7 @@ This project highlights a range of concepts and tools I’ve mastered:
 - **Event Listeners**: Handled user interactions like form submissions and button clicks.
 - **Responsive Design**: Utilized CSS Grid, Flexbox, and breakpoints (768px, 480px).
 - **Accessibility (a11y)**: Added ARIA attributes and keyboard navigation for inclusivity.
-- **Netlify**: Deployed the app for free, showcasing my deployment skills.
+- **Vercel**: Deployed the app for free, showcasing my deployment skills.
 
 ---
 
@@ -67,16 +67,16 @@ This project highlights a range of concepts and tools I’ve mastered:
 
 ## Deployment
 
-This project is live at **[https://free-personal-expense-tracker.netlify.app/](https://free-personal-expense-tracker.netlify.app/)**, deployed using Netlify. The deployment process involved:
-- Pushing code to a GitHub repository.
-- Connecting to Netlify and configuring a custom domain.
-- Ensuring automatic builds with every code update.
+This project is live at **[https://pers0nal-expense-tracker.vercel.app/](https://pers0nal-expense-tracker.vercel.app/)**, deployed using Vercel. The deployment process involved:
+- Setting up the project locally.
+- Using the Vercel CLI to initialize and deploy from the terminal.
+- Ensuring automatic builds with every code update (optional Git integration).
 
 ---
 
 ## Challenges & Solutions
 
-- **Chart Loading**: Solved by dynamically loading Chart.js with a preloader.
+- **Chart Loading**: Solved by dynamically loading Chart.js with a preloader and ensuring proper chart updates after adding expenses.
 - **Theme Consistency**: Used CSS variables to maintain uniform styling across modes.
 - **Data Persistence**: Implemented local storage to retain user data offline.
 - **Responsiveness**: Designed with media queries to adapt to all screen sizes.
