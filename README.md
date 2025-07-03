@@ -48,20 +48,6 @@ This project highlights a range of concepts and tools I’ve mastered:
 
 ---
 
-## Installation & Setup
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd personal-expense-tracker
-   ```
-2. **Open `index.html`**:
-   - Simply open the file in a modern browser (e.g., Chrome, Firefox) to use locally.
-3. **Dependencies**:
-   - No external dependencies needed; Chart.js is loaded via CDN.
-
----
-
 ## Usage
 
 1. **Add an Expense**:
@@ -114,7 +100,7 @@ Feel free to fork this repository, submit issues, or send pull requests. I’d l
 
 ## Contact
 
-Built with ❤️ by **Pavan Thrikoti Pottupalli**. Connect with me on [LinkedIn](https://www.linkedin.com/in/pavan-thrikoti-pottupalli) or email me at [pavan@example.com](mailto:pavan@example.com) for feedback or opportunities.
+Built with ❤️ by **Pavan Thrikoti Pottupalli**. Connect with me on [LinkedIn](https://www.linkedin.com/in/pavan-thrikoti-pottupalli-330822254/) or email me at [pavanthrikoti@gmail.com](mailto:pavanthrikoti@gmail.com) for feedback or opportunities.
 
 ---
 
