@@ -1,4 +1,3 @@
-```markdown
 # Personal Expense Tracker
 
 Welcome to my **Personal Expense Tracker**, a sleek and robust web application designed to help you manage your finances effortlessly! Built with modern web technologies and optimized for performance and accessibility, this project showcases my skills as a software developer.
@@ -132,4 +131,3 @@ Built with ❤️ by **Pavan Thrikoti Pottupalli**. Connect with me on [LinkedIn
 ---
 
 This project reflects my skills in front-end development, problem-solving, performance optimization, and web accessibility, making it a strong portfolio piece for a software developer role. Give it a try and let me know your thoughts! 🚀
-```
